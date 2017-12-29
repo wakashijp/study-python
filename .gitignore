@@ -11,7 +11,7 @@
 .idea/modules.xml
 .idea/study-python.iml
 .idea/**/Project_Default.xml
-
+.idea/vcs.xml
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
