@@ -8,4 +8,3 @@ if 5 <= a <= 8:
     print(a, "合格")
 else:
     print(a, "不合格")
-
