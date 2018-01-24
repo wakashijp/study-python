@@ -55,3 +55,10 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/
+Chapter10/Section10-3/__pycache__/
+Chapter10/Section10-3/mylib/__pycache__/
+Chapter11/Section11-2/__pycache__/
+Chapter12/Section12-1/__pycache__/
+Chapter12/Section12-2/__pycache__/
